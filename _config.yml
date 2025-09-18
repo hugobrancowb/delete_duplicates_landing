@@ -30,10 +30,10 @@ youtube_username: hugobranco
 # Feature List                            Edit, add or remove features to be presented.
 # features:
 #   - title: Find duplicated photos
-#     description: Keep track of your game stash, playtime and wishlist.
+#     description: Keep track of your game stash, playtime and wishlist
 
 #   - title: Discover popular games
-#     description: Find out what games are trending.
+#     description: Find out what games are trending
 #     fontawesome_icon_name: fire
 
 # Theme Settings
